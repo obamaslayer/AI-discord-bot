@@ -126,4 +126,4 @@ async def on_message(message):
         
         await message.channel.send(chat(str(message.content)))
  
-client.run('MTA3MjM0MzY4MDA5MTk1NTI2Mw.GFkgOu._0ZqevvwwyR4AmF1XEAohdhFyKsSNPQ_z4GeDk')
+client.run(' get your own token loser')
