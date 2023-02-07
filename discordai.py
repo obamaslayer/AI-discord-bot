@@ -80,14 +80,7 @@ def chat(string):
             e=str(e.replace("{<Statement text:",""))
             e=str(e.replace(">}",""))
         
-        re=({chatbot.get_response(query)})
-        f = open("logs.csv", "a")
-        a=("\n " + (query))
-        a=((a))
-        f.write(a)
-        b=("\n " + re)
-        f.write(b)
-        f.close()
+        re=({chatbot.get_response(query)}
         re=(re)
         re=(re.replace("sex","###"))
         re=(re.replace("cum","###"))
