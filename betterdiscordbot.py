@@ -23,7 +23,7 @@ que=0
 global persona
 import os
 import openai
-openai.api_key = ("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")
+openai.api_key = (" get your own key loser")
 global limit
 limit=255
 {
